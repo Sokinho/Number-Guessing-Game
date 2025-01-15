@@ -42,4 +42,5 @@ Access the project directory:
 
 Run the game in the terminal:
 `python game.py`
+
 Follow the on-screen instructions and try to guess the number!
