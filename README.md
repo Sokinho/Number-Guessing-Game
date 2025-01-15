@@ -21,6 +21,9 @@ Execute o jogo no terminal:
 
 Siga as instruções na tela e tente adivinhar o número!
 
+Exemplo de solução para o projeto "Jogo de adivinhação de números" fornecido por Roadmap.sh:
+https://roadmap.sh/projects/number-guessing-game
+
 ------------------------------------------------------------------------------------------------------------
 
 Guess the Number Game
@@ -45,5 +48,5 @@ Run the game in the terminal:
 
 Follow the on-screen instructions and try to guess the number!
 
-
+Sample solution for project "Number Guessing Game" provided by Roadmap.sh:
 https://roadmap.sh/projects/number-guessing-game
